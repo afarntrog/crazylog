@@ -1,3 +1,3 @@
-from crazylog.crazy_logger import CrazyLogger
+from crazylog.crazy_logger import CrazyLogger, CrazyLoggerMeta
 
 __version__ = "0.1.0"
