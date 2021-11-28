@@ -92,5 +92,4 @@ foo()
 
 # Feedback and contributing
 
-This library is very focused on being easy and fun to use, so if you find something that you think can be improved
-please open an issue or even better, a PR, thank you!
+If you find something that can be improved please open an issue or even better, a PR, thank you.
